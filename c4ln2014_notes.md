@@ -7,10 +7,9 @@ London Public Library
 Thursday sessions
 -----------
 
-Sam Popowich and John Fink
 A brief overview of modern configuration management and deploy tools; or, why your bash scripts are not scalable.
 -----------
-
+- Sam Popowich and John Fink
 - UofAlberta - moving from CF/Java; adopting Ruby/Blacklght/Hydra/Rails
 - adopting devopsy approach
 - bash scripts 
@@ -33,10 +32,9 @@ A brief overview of modern configuration management and deploy tools; or, why yo
 - Docker - virtualizes within containers (specific to amd64); lightweight; quick
   startup/teardown times; easy DSL to config
   
-Geoffrey Allen  
 Using library systems to mould public school libraries  
 -----------
-
+- Geoffrey Allen  
 - Waterloo Region District School Board - library services supervisor (1 of 6 IT
   supervisors)
 - 118 school libraries, 4 political regions
@@ -67,10 +65,9 @@ Using library systems to mould public school libraries
   difficult to create a helpful cluster because there is so much data now -- 
   needs to be pruned in order to have a helpful cluster 
 
-Dave Mitchell   
 Opening library data from a hostile data source   
 ----------
-
+- Dave Mitchell   
 - vendor would share data, but wouldn't share data structure
 - 2001 - moved to Innovative Interfaces; could only have data access IF they had
   Oracle
@@ -84,10 +81,9 @@ Opening library data from a hostile data source
 - PostgreSQL has built-in replication - could have a copy that they can use that
   is not limited 
 
-Grant Campbell  
 An XML Framework for Teaching RDA   
 ---------
-
+- Grant Campbell  
 - Teaches cataloguing at FIMS - gcampbel@uwo.ca
 - Cataloguing rules not based on AACR2 
 - RDA (Resource Description and Access) based on FRBR - work, expression, manifestation, and item
@@ -106,11 +102,10 @@ An XML Framework for Teaching RDA
   students not trained in AARC2
 - "How much life does bibliographic data have outside a library catalogue?"
 - Early vision of shared metadata faltered due to spam - "documents deceive"
-
-Ruth Collings   
+ 
 It's not paranoia if they're really watching you: library patron privacy   
 ----------
-
+- Ruth Collings  
 - neuromancer.ca/c4ln2014
 - Demonstrated Wireshark for network traffic sniffing
 - Highlighted Heartbleed bug
@@ -145,25 +140,22 @@ It's not paranoia if they're really watching you: library patron privacy
 Friday sessions
 ----------
 
-Michael Ridley
 CRKN's Integrated Digital Scholarship Ecosystem (IDSE) Project: Overview & Feedback
 --------
+- Michael Ridley
 
-Kim Martin
 Preliminary findings from The Effects of Digital Technology on Seniors (EDITS) Project
 -----------
+- Kim Martin
 
-Scott Cowan
 RDA relationship designators as linked data: solutions to problems?
 -----------
+- Scott Cowan
 
-Sarah Simpkin
 Let's all go to the hackfest! #hackUOBiblio update
 -----------
+- Sarah Simpkin
 
-Chris Gray  
 Teaching SQL to Librarians at Software Carpentry bootcamp 
 ----------
-
- 
-
+- Chris Gray  
